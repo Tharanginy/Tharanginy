@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<h3> _Tharanginy_ </h3>
-            <p class="paragraph"> Hello! I’m Tharanginy, a recent Chemistry with Mathematics graduate from UCL, with experience in data analysis using Excel, Python, and Stata. I’m particularly passionate about using data-driven insights to tackle real-world problems. </p>
+Hello! I’m Tharanginy!
 
 
 <!--

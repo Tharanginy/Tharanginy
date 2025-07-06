@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h3> Tharanginy M </h3>
+<h3> _Tharanginy_ </h3>
             <p class="paragraph"> Hello! I’m Tharanginy, a recent Chemistry with Mathematics graduate from UCL, with experience in data analysis using Excel, Python, and Stata. I’m particularly passionate about using data-driven insights to tackle real-world problems. <br><br>During my degree, I developed and documented Python code to improve efficiency and accuracy in laboratory analysis, while also honing key skills in scientific reporting and data interpretation. I completed an internship at AWE, where I deepened my technical expertise by modelling reaction chemistry using computational tools, presenting findings to stakeholders, and collaborating effectively within a team.<br><br>As a private tutor, I explain complex mathematical and scientific concepts with clarity, and my experience in retail has further strengthened my interpersonal and communication skills.<br><br> </p>
 
 
